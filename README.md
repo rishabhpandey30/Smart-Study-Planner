@@ -7,7 +7,7 @@ Designed with a **professional dashboard UI**, this project focuses on improving
 ---
 
 🔗 **Live Demo:**  
-👉 https://your-live-link-here.com
+👉 [Smart-Study-Planner](https://rishabhpandey30.github.io/Smart-Study-Planner/)
 
 ---
 
